@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwini Kumar Pandey
 - 👀 I’m interested in development and solving problems
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Front-end web development
 - 💞️ I am always open for discussions and problem solving
 - 📫 How to reach me my linked in profile is: https://www.linkedin.com/in/ashwini-pandey-a681051b9 
 

@@ -19,7 +19,7 @@
 Hi, I'm Ashwini Kumar Pandey. I am Information Technology Undergraduate currently studying at Dr Akhilesh Das Gupta Institute of Technology & Management.
 
 
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fallhtaccess.info%2F25-gif-images-related-to-programming%2F&psig=AOvVaw32qYK9y06Ng0YMaN7rElWV&ust=1623232311666000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICgs93hh_ECFQAAAAAdAAAAABAc" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 
 **Talking about Personal Stuffs:**

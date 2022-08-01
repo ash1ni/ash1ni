@@ -21,9 +21,3 @@ Hi, I'm Ashwini Kumar Pandey. I am Information Technology Undergraduate currentl
 
 <img align="right" alt="GIF" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
 
-
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning Front-End Web Development.
-- 👯 Part of Developer Community .
-- 💬 Always ready for coding projects.✌

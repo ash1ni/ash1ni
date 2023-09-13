@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm Ashwini Kumar Pandey. I am Information Technology Undergraduate currently studying at Dr Akhilesh Das Gupta Institute of Technology & Management.
+Hi, I'm Ashwini Kumar Pandey.
 
 
 <img align="right" alt="GIF" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
